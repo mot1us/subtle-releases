@@ -7,6 +7,7 @@ Ridge lets you browse your RomM library and play games on an ARM Android TV or G
 1. Open **Downloader**, enter **9967856**, and select **Go**. The code points to the latest signed Ridge APK. [Download directly from GitHub](https://github.com/mot1us/subtle-releases/releases/latest/download/subtle.apk)
 2. Select **Install** when the download finishes. If Android prompts you, allow Downloader to install apps.
 3. Open **Ridge**, enter your RomM server address, and scan the sign-in QR code with your phone.
+4. Browse with your TV remote or gamepad. Pair a gamepad in Android settings to play.
 
 For future updates, open **Settings → About → Check for updates** in Ridge.
 
